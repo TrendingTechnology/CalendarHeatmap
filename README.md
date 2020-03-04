@@ -2,7 +2,7 @@
 
 ![CalendarHeatmap Title](https://raw.githubusercontent.com/Zacharysp/CalendarHeatmap/master/Resources/CalendarHeatmap.png)
 
-[![CI Status](https://img.shields.io/travis/Zacharysp/CalendarHeatmap.svg?style=flat)](https://travis-ci.org/Zacharysp/CalendarHeatmap)
+[![CI Status](https://api.travis-ci.com/Zacharysp/CalendarHeatmap.png?branch=master)](https://travis-ci.org/Zacharysp/CalendarHeatmap)
 [![Version](https://img.shields.io/cocoapods/v/CalendarHeatmap.svg?style=flat)](https://cocoapods.org/pods/CalendarHeatmap)
 [![License](https://img.shields.io/cocoapods/l/CalendarHeatmap.svg?style=flat)](https://cocoapods.org/pods/CalendarHeatmap)
 [![Platform](https://img.shields.io/cocoapods/p/CalendarHeatmap.svg?style=flat)](https://cocoapods.org/pods/CalendarHeatmap)
